@@ -1,3 +1,4 @@
+/*fork request*/
 #include<iostream.h>
 {	int main()
 	{	cout<<"fdgfg";
