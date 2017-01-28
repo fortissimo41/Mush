@@ -1,4 +1,4 @@
-#inlude<iostrea.h>
+#include<iostream.h>
 int main()
 {	int a=8, b=4;
 	cout<<"Calc = "<<a/b;
