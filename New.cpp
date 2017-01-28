@@ -1,7 +1,7 @@
 #include<iostream.h>
 {	int main()
 	{	cout<<"fdgfg";
-	 	cout<<"Wuuuuuz";
+	 	cout<<"ZZZuuz";
 		return 0;
 	}
 }
